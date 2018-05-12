@@ -1,0 +1,11 @@
+The next list includes the hardware required for the Surveillance system of the Home Automation project.
+
+1) Raspberry Pi (obviously)
+2) Any USB webcam (if the Pi cam is used a different repository than the fswebcam may be required)
+3) PIR motion sensor
+
+Raspberry Pi: https://www.conrad.com/ce/en/Search.html?queryFromSuggest=true&search=raspberry+pi
+USB webcam: https://www.conrad.com/ce/en/Search.html?search=webcam%5C&searchType=mainSearchBar
+PIR motion sensor: https://www.conrad.com/ce/en/product/1485335/PIR-motion-detector-module-1-pcs-SE062-Iduino-5-Vdc?ref=list
+
+The total price can be as low as $35 (Pi) + $15 (webcam) + $10 (PIR) = $60.
