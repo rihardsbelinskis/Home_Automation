@@ -1,3 +1,6 @@
+# Shell script for the 116 surveillance system
+# Author: Rihards Belinskis
+# Project: Home Automation
 #!/bin/bash
 
 DATE=$(date +"%Y-%m-%d_%H%M")
