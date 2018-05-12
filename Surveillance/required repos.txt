@@ -1,3 +1,5 @@
+These are the required repositories for the RPi. All can be obtained using sudo apt-get command.
+
 fswebcam
 ssmtp
 mpack
