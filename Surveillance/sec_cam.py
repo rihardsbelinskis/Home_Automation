@@ -1,4 +1,4 @@
-# The main script for the 116 surveillance system
+# The main script for the surveillance system
 # Author: Rihards Belinskis
 # Project: Home Automation
 
@@ -12,7 +12,7 @@ PIR_PIN = 10
 GPIO.setup(PIR_PIN, GPIO.IN)
 
 try:
-        print "116 Surveillance System (CTRL+C to exit)"
+        print "Surveillance System ON (CTRL+C to exit)"
         time.sleep(2)
         print "I can see you now!"
         while True:
