@@ -3,7 +3,7 @@ Home Automation using a Raspberry Pi
 
 Author: Rihards Belinskis
 
-Last update: 12th of May, 2018.
+Last update: November 2nd, 2018.
 
 All files within this repository are written for the home automation project.
 The project is made for the purpose of exploring the possibilities of the RPi.
