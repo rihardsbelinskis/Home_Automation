@@ -8,4 +8,4 @@ Raspberry Pi: https://www.conrad.com/ce/en/Search.html?queryFromSuggest=true&sea
 USB webcam: https://www.conrad.com/ce/en/Search.html?search=webcam%5C&searchType=mainSearchBar
 PIR motion sensor: https://www.conrad.com/ce/en/product/1485335/PIR-motion-detector-module-1-pcs-SE062-Iduino-5-Vdc?ref=list
 
-The total price can be as low as $35 (Pi) + $15 (webcam) + $10 (PIR) = $60.
+The total price of this surveillance system can be as low as $35 (Pi) + $15 (webcam) + $10 (PIR) = $60.
