@@ -1,6 +1,8 @@
 # Home-automation
 Home Automation using a Raspberry Pi
+
 Author: Rihards Belinskis
+
 Last update: 12th of May, 2018.
 
 All files within this repository are written for the home automation project.
