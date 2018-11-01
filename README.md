@@ -11,11 +11,8 @@ The project is made for the purpose of exploring the possibilities of the RPi.
 The project includes (or will include) the following subfolders:
 
 *Surveillance
-
 *Lighting
-
 *Speakers
-
 *Gardening
 
 Each of the folders contains scripts and instructions for hardware and software,
