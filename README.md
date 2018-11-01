@@ -1,19 +1,16 @@
 # Home-automation
-Home Automation using a Raspberry Pi
-
 Author: Rihards Belinskis
 
 Last update: November 2nd, 2018.
 
-All files within this repository are written for the home automation project.
-The project is made for the purpose of exploring the possibilities of the RPi.
+All files within this repository are written for the home automation project. The project is made for the purpose of exploring the possibilities of the RPi and to showcase that home automation can be achieved with reasonably low price equipment.
 
 The project includes (or will include) the following subfolders:
 
-*Surveillance
-*Lighting
-*Speakers
-*Gardening
+* Surveillance
+* Lighting
+* Speakers
+* Gardening
 
 Each of the folders contains scripts and instructions for hardware and software,
 which are used to create the particular automated system.
