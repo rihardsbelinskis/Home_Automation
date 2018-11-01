@@ -1,0 +1,3 @@
+after all default text inside crontab insert the following line:
+
+@reboot sudo python /your_URL/speech.py

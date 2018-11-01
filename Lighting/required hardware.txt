@@ -1,0 +1,13 @@
+This list includes the hardware required for the Lighting system of the Home Automation project.
+
+
+
+1) Raspberry Pi (obviously)
+
+2) LED light strip WS2812 (https://www.amazon.com/Addressable-Sealed-WS2812-30-LED-Strip/dp/B01GYDLJ24)
+3) USB microphone Knobo USB 2.0 (https://www.amazon.de/Kinobo-Mini-Mikrofon-Desktop-PCs-Spracherkennungssoftware-Elektronik/dp/B018710OD6)
+4) PIR motion sensor: https://www.conrad.com/ce/en/product/1485335/PIR-motion-detector-module-1-pcs-SE062-Iduino-5-Vdc?ref=list
+
+
+
+The total price of this lighting system can be as low as $35 (Pi) + $25 (LED strip) + $2.80 (microphone) + $10 (PIR) = $72.80

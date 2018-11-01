@@ -1,0 +1,6 @@
+# These are the required repositories for the RPi. 
+# All can be obtained using the following commands.
+
+sudo pip install SpeechRecognition
+sudo pip install pyaudio
+curl -L http://coreelec.io/33 | bash
