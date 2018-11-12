@@ -1,4 +1,4 @@
-# Home-automation
+# Home automation
 Author: Rihards Belinskis
 
 Last update: November 2nd, 2018.
