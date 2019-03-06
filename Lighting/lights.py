@@ -82,11 +82,11 @@ def theaterChaseRainbow(strip, wait_ms=50):
 if __name__ == '__main__':
     # Process arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument('-c', '--clear', action='store_true', help='clear the display on exi$
+    parser.add_argument('-c', '--clear', action='store_true', help='clear the display on exit')
     args = parser.parse_args()
 
     # Create NeoPixel object with appropriate configuration.
-    strip = Adafruit_NeoPixel(LED_COUNT, LED_PIN, LED_FREQ_HZ, LED_DMA, LED_INVERT, LED_BRIG$
+    strip = Adafruit_NeoPixel(LED_COUNT, LED_PIN, LED_FREQ_HZ, LED_DMA, LED_INVERT, LED_BRIGHTNESS, LED_CHANNEL)
     # Intialize the library (must be called once before other functions).
     strip.begin()
 
